@@ -1,0 +1,2 @@
+# Segmenting-and-Clustering-Neighborhoods-TOR
+This repository is a part of the IBM Data Science Capstone Project in the Coursera platform. This project includes scraping data from the internet to explore, segment and cluster neighborhoods in the city of Toronto. The link to the notebook is available at: https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/6c280d76-b911-43c7-8fd6-74294d9f18ad/view?access_token=a249da331b9ed4fe2067bda8355fca1e72899900838c600ac793328d10625ae6
